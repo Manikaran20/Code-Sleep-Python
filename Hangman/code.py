@@ -19,8 +19,7 @@ def pick_random_word():
 
 
 def ask_user_for_next_letter():
-	letter = input("Guess your letter: ")
-	return letter.strip().upper()
+	return input("Guess your letter: ").strip().upper()
 
 
 def generate_word_string(word, letters_guessed):
