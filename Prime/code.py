@@ -33,7 +33,7 @@ def prime(range_from, range_to):
   
 if __name__ == "__main__":
     print("Enter the range of number")
-    range_from = int(input("From: "))
+    range_from = int(input("From:  "))
     range_to = int(input("To: "))
 
     prime(range_from, range_to)
