@@ -1,4 +1,3 @@
-# First, use `groupby` to group up the data.
 grouped_birds = birddata.groupby("bird_name")
 
 # Now operations are performed on each group.
