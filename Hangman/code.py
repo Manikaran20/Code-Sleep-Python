@@ -1,4 +1,4 @@
-import random  # import random library
+import random  
 
 def pick_random_word():
 	"""
