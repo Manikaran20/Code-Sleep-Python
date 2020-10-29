@@ -134,7 +134,6 @@ def play_strategic_game():
 play_strategic_game()  
 
 # plotting play-strategic-game
-# write your code here!
 import time
 
 R = 1000
